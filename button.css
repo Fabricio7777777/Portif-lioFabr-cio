@@ -1,0 +1,15 @@
+button {
+    text-align: center;
+    display: flex;
+    box-sizing: border-box;
+    font-size: 32px;
+    background-color: rgb(72, 20, 46);
+    width: 195px;
+    height: 50px;
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border: none;
+    align-items: center;
+}
